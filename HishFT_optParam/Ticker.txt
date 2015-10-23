@@ -1,0 +1,49 @@
+NASDAQ	Financial	BPOP	Popular Inc.	2015-05-07 00:00:00
+NASDAQ	Financial	FITB	Fifth Third Bancorp	2015-05-07 00:00:00
+NASDAQ	Financial	HBAN	Huntington Bancshares Inc	2015-05-07 00:00:00
+NASDAQ	Services	CMCSA	Comcast Corp	2015-05-07 00:00:00
+NASDAQ	Services	EBAY	eBay Inc.	2015-05-07 00:00:00
+NASDAQ	Services	NWSA	News Corp	2015-05-07 00:00:00
+NASDAQ	Technology	AAPL	Apple Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	AMAT	Applied Materials Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	BRCD	Brocade Comm. Systems	2015-05-07 00:00:00
+NASDAQ	Technology	CSCO	Cisco Systems, Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	GOOG	Google Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	INTC	Intel Corp.	2015-05-07 00:00:00
+NASDAQ	Technology	LVLT	Level 3 Communications Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	MSFT	Microsoft Corp	2015-05-07 00:00:00
+NASDAQ	Technology	MU	Micron Technology Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	NVDA	NVIDIA Corp	2015-05-07 00:00:00
+NASDAQ	Technology	ORCL	Oracle Corp	2015-05-07 00:00:00
+NASDAQ	Technology	QCOM	Qualcomm Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	SIRI	Sirius XM Radio Inc.	2015-05-07 00:00:00
+NASDAQ	Technology	SNDK	SanDisk Corp	2015-05-07 00:00:00
+NASDAQ	Technology	WIN	Windstream Corp	2015-05-07 00:00:00
+NASDAQ	Technology	YHOO	Yahoo! Inc.	2015-05-07 00:00:00
+NYSE	Basic Materials	BHP	BHP Billiton Limited	2015-05-07 00:00:00
+NYSE	Basic Materials	BP	BP	2015-05-07 00:00:00
+NYSE	Basic Materials	RDSA	Royal Dutch Shell PLC	2015-05-07 00:00:00
+NYSE	Basic Materials	RIO	Rio Tinto	2015-05-07 00:00:00
+NYSE	Basic Materials	XOM	Exxon Mobil	2015-05-07 00:00:00
+NYSE	Conglomerates	GE	General Electric	2015-05-07 00:00:00
+NYSE	Consumer Goods	F	Ford Motor	2015-05-07 00:00:00
+NYSE	Consumer Goods	MO	Altria Group Inc.	2015-05-07 00:00:00
+NYSE	Consumer Goods	XRX	Xerox	2015-05-07 00:00:00
+NYSE	Financial	GS	Goldman Sachs	2015-05-07 00:00:00
+NYSE	Financial	JPM	JP Morgan Chase	2015-05-07 00:00:00
+NYSE	Financial	LYG	Lloyds Banking Group	2015-05-07 00:00:00
+NYSE	Financial	MS	Morgan Stanley	2015-05-07 00:00:00
+NYSE	Financial	RF	Regions Financial Corp	2015-05-07 00:00:00
+NYSE	Financial	UBS	UBS AG	2015-05-07 00:00:00
+NYSE	Financial	USB	U.S. Bancorp	2015-05-07 00:00:00
+NYSE	Financial	WFC	Wells Fargo	2015-05-07 00:00:00
+NYSE	Healthcare	MRK	Merck Inc.	2015-05-07 00:00:00
+NYSE	Healthcare	PFE	Pfizer	2015-05-07 00:00:00
+NYSE	Industrial Goods	LMT	Lockheed Martin	2015-05-07 00:00:00
+NYSE	Services	MGM	MGM Resorts International	2015-05-07 00:00:00
+NYSE	Technology	AMD	Advanced Micro Devices	2015-05-07 00:00:00
+NYSE	Technology	EMC	EMC Corp	2015-05-07 00:00:00
+NYSE	Technology	GLW	Corning Inc.	2015-05-07 00:00:00
+NYSE	Technology	HPQ	Hewlett-Packard	2015-05-07 00:00:00
+NYSE	Technology	S	Sprint Nextel Corp	2015-05-07 00:00:00
+NYSE	Technology	T	AT&T	2015-05-07 00:00:00
